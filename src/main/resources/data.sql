@@ -1,0 +1,2 @@
+INSERT INTO book (id, title, author, isbn, price) VALUES (1, 'Clean Code', 'Robert C. Martin', '9780132350884', 120.0);
+INSERT INTO book (id, title, author, isbn, price) VALUES (2, 'Effective Java', 'Joshua Bloch', '9780134686097', 150.0);
