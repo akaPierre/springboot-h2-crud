@@ -149,10 +149,10 @@ springboot-h2-crud/
 - Immutable-like entities with `@Builder`
 
 ## 🚀 Production Deployment
-1. Replace H2 with PostgreSQL/MySQL in pom.xml and application.properties
+1. Replace H2 with PostgreSQL/MySQL in `pom.xml` and `application.properties`
 2. Add Spring Security for authentication
 3. Dockerize the application
-4. Add health checks (/actuator/health)
+4. Add health checks (`/actuator/health`)
 5. Monitoring with Micrometer/Prometheus
 
 ## 🐛 Troubleshooting
