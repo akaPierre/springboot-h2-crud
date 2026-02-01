@@ -41,7 +41,7 @@ A production-ready **RESTful CRUD API** built with **Spring Boot 3.5.10**, **Jav
 
 ### 1. Clone & Build
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/akaPierre/springboot-h2-crud.git
 cd springboot-h2-crud
 mvn clean install
 ```
